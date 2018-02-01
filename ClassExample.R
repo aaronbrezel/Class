@@ -9,6 +9,9 @@ print("A new line")
 print("A third line")
 
 print("Hello Alex")
+<<<<<<< HEAD
 print("It works")
 
 print("fuck off Aaron")
+=======
+>>>>>>> parent of cdf6dc4... Test with Alex
